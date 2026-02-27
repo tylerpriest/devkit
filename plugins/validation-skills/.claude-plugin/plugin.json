@@ -1,0 +1,9 @@
+{
+  "name": "validation-skills",
+  "version": "1.0.0",
+  "description": "Product validation and go-to-market skills for Claude Code. 11 skills covering the full journey from idea to first paying customers.",
+  "author": { "name": "Tyler Priest" },
+  "repository": "https://github.com/tylerpriest/devkit",
+  "license": "MIT",
+  "keywords": ["validation", "product-market-fit", "go-to-market", "indie-hacker", "startup"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "feature-teardown",
+  "version": "1.0.0",
+  "description": "Feature-level competitive analysis for Claude Code. Tear down how competitors implement specific features to inform your build decisions.",
+  "author": { "name": "Tyler Priest" },
+  "repository": "https://github.com/tylerpriest/devkit",
+  "license": "MIT",
+  "keywords": ["competitive-analysis", "feature-analysis", "ux-research", "product-development"]
+}

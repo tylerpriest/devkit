@@ -1,0 +1,25 @@
+{
+  "name": "devkit",
+  "description": "Product development toolkit for Claude Code. Validation, competitive analysis, and go-to-market skills for builders.",
+  "owner": {
+    "name": "Tyler Priest"
+  },
+  "plugins": [
+    {
+      "name": "validation-skills",
+      "description": "11 product validation skills: problem extraction, demand discovery, audience identification, positioning, pricing, smoke testing, distribution planning, go/no-go decisions, builder psychology, and market sizing",
+      "version": "1.0.0",
+      "author": { "name": "Tyler Priest" },
+      "source": "./plugins/validation-skills",
+      "category": "productivity"
+    },
+    {
+      "name": "feature-teardown",
+      "description": "Feature-level competitive analysis: UX pattern teardowns, technical implementation research, cross-implementation pattern extraction, and prioritized build recommendations",
+      "version": "1.0.0",
+      "author": { "name": "Tyler Priest" },
+      "source": "./plugins/feature-teardown",
+      "category": "productivity"
+    }
+  ]
+}
