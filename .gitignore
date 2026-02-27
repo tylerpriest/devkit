@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Node modules (in case any JavaScript/Node projects get added)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Ignore skill-specific generated files if any
+skills/**/node_modules/
+skills/**/dist/
